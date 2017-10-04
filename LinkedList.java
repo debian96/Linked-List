@@ -13,7 +13,7 @@ public class LinkedList {
 	        Node(int d){ 
 	        		data = d;
 	        		next=null; 
-	        	} 
+	       	} 
 	    }
 	 
 	    //This function prints contents of linked list starting from head 
