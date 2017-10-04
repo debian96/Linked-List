@@ -36,6 +36,7 @@ int main(){
 
 		if (first!=NULL)
 		{
+			
 			temp->next = head;
 			temp = head;
 			
