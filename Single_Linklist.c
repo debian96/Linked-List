@@ -381,6 +381,7 @@ void reverse(){
 		}
 		printf("\nList is Reversed:\n");
 		head = prev;
+		
 	}
 }
 
